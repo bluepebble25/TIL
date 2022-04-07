@@ -2,4 +2,7 @@
 Today I Learned...
 
 ## React
-- React 입문
+- [React 스터디](./react-study)
+
+## Git
+- [Git 사용하다 마주치는 문제들](./git/README.md)
