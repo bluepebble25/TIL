@@ -7,3 +7,4 @@
 - [3. 엘리먼트 렌더링](./03.Rendering-elements.md)
 - [4. Components와 Props](./04.Components-and-props.md)
 - [5. State와 생명주기](./05.State-and-Lifecycle.md)
+- [6. 이벤트 다루기](./06.handling-events.md)
