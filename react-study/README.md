@@ -9,3 +9,4 @@
 - [5. State와 생명주기](./05.State-and-Lifecycle.md)
 - [6. 이벤트 다루기](./06.handling-events.md)
 - [7. 조건부 렌더링](./07.conditional-rendering.md)
+- [8. 리스트와 key](./08.lists-and-keys.md)
