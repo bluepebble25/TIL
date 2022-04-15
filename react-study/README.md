@@ -11,3 +11,4 @@
 - [7. 조건부 렌더링](./07.conditional-rendering.md)
 - [8. 리스트와 key](./08.lists-and-keys.md)
 - [9. 폼](./09.forms.md)
+- [10. State 끌어올리기](./10.lifting-state-up.md)
