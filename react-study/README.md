@@ -12,3 +12,4 @@
 - [8. 리스트와 key](./08.lists-and-keys.md)
 - [9. 폼](./09.forms.md)
 - [10. State 끌어올리기](./10.lifting-state-up.md)
+- [11. 합성(Composition) vs 상속(Inheritance)](./11.composition-vs-inheritance.md)
