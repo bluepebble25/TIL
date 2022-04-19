@@ -13,3 +13,4 @@
 - [9. 폼](./09.forms.md)
 - [10. State 끌어올리기](./10.lifting-state-up.md)
 - [11. 합성(Composition) vs 상속(Inheritance)](./11.composition-vs-inheritance.md)
+- [12. React로 사고하기](./12.thinking-in-react.md)
