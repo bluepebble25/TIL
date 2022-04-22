@@ -1,5 +1,5 @@
 # React-stutdy
-[React 공식 문서](https://ko.reactjs.org/docs/getting-started.html)를 보며 공부한 내용을 그날그날 정리
+[React 공식 문서](https://ko.reactjs.org/docs/getting-started.html)를 보며 공부한 내용을 정리
 
 ## 개념
 - [1. React 시작하기](./01.Introduction.md)  
@@ -17,3 +17,4 @@
 
 ## Hook
 - [Hook 개요](./hooks-overview.md)
+- [Effect Hook](./hooks-effect.md)
