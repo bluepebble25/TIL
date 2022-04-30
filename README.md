@@ -11,8 +11,9 @@ Today I Learned...
 ## CSS
 - [BEM 방법론](./CSS/BEM.md)
 
-### 반응형 웹
+#### 반응형 웹
 - [Viewport](./CSS/viewport.md)
+- [미디어 쿼리](./CSS/media_queries.md)
 
 ## HTML
 - [meta 태그](./HTML/meta-tag.md)
