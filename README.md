@@ -19,6 +19,7 @@ Today I Learned...
 ## Web
 - [쿠키, 세션, 웹 스토리지(세션/로컬)](./Web/cookie_session_webStorage.md)
 - [HTTP](./Web/HTTP.md)
+- [HTTP 헤더](./Web/HTTP-headers.md)
 
 ## 알고리즘
 - [정렬 알고리즘(버블/선택/삽입)](./algorithm/sorting-algorithm.md)
