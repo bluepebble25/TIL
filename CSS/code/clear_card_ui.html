@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="bluepebble25">
+  <title>clear 이해하기</title>
+  <style>
+    * {
+      margin: 0;
+    }
+
+    html, body {
+      height: 100%;
+    }
+
+    .container {
+      margin: 300px;
+    }
+
+    .item-lists {
+      width: 100%;
+      max-width: 375px;
+      border: 1px solid #eee;
+      border-radius: 8px;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.1);  /* position-x, position-y, blur-radius */
+    }
+
+    .item-lists > h1 {
+      font-size: 18px;
+      padding: 12px;
+      margin: 12px 0;
+    }
+
+    .item {
+      padding: 12px;
+    }
+
+    .item:hover {
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      transition: 0.3s;
+    }
+
+    .item h2 {
+      font-size: 15px;
+      font-weight:  bold;
+      line-height: 1.4;
+      margin: 4px 0;
+    }
+
+    .item img {
+      float: left;
+      margin-right: 8px;
+      border-radius: 4px;
+    }
+
+    .item p::after {
+      clear: both;
+      display: block;
+      content: '';
+    }
+
+  </style>
+</head>
+<body>
+<div class="container">
+<div class="item-lists">
+  <h1>휴향지 리스트</h1>
+  <div class="item">
+    <img src="beach.jpg" alt="물결 이미지" width="100px">
+    <h2>바다 근처 리조트</h2>
+    <p>조회수 2.3천회</p>
+  </div>
+</div>
+</div>
+
+</body>
+</html>
