@@ -20,6 +20,7 @@ Today I Learned...
 
 ## javascript
 - [이벤트 루프, 콜스택, 콜백큐](./javascript/eventloop-callstack-callbackqueue.md)
+- [CommonJS VS AMD 그리고 ES6 모듈](./javascript/commonJS-vs-AMD.md)
 
 ## Node.js
 - [Node.js - intro](./node.js/node.js-intro.md)
