@@ -27,6 +27,7 @@ Today I Learned...
 - [package.json](./node.js/package-json.md)
 - [package-lock.json](./node.js/package-lock-json.md)
 - [Node.js 모듈](./node.js/module.md)
+- [http 모듈로 서버 생성하기, 라우팅](./node.js/create-server-and-routing.md)
 
 ## Web
 - [쿠키, 세션, 웹 스토리지(세션/로컬)](./Web/cookie_session_webStorage.md)
