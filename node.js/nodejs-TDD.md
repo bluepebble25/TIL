@@ -72,7 +72,7 @@ module.exports = function (a, b) {
 ### 4. 실행방법
 - 윈도우
   ```
-  npx mocha index.spec.js
+  node ./node_modules/mocha/bin/mocha index.spec.js
   ```
 - 리눅스
   ```
