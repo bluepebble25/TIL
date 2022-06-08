@@ -31,6 +31,7 @@ Today I Learned...
 - [Express 시작하기 및 미들웨어](./node.js/starting-express-and-middleware.md)
 - [Node.js TDD (Mocha + Should + SuperTest 조합)](./node.js/nodejs-TDD.md)
 - [nodejs API 만들기(1)](./node.js/making-nodejs-API-1.md)
+- [nodejs API 만들기(2) - 리팩토링](./node.js/making-nodejs-API-2.md)
 
 ## Web
 - [쿠키, 세션, 웹 스토리지(세션/로컬)](./Web/cookie_session_webStorage.md)
