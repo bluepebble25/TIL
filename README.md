@@ -1,11 +1,14 @@
 # TIL
 Today I Learned...
 
+emoji 의미 -🧵: 시리즈
+
 ## React
-- [React 스터디](./react-study)
+- [🧵 React 스터디](./react-study)
+- [useEffect가 두 번 호출되는 현상](./react/useEffect-called-twice.md)
 
 ## Git
-- [Git 사용하다 마주치는 문제들](./git/README.md)
+- [🧵 Git 사용하다 마주치는 문제들](./git/README.md)
 - [git-flow](./git/git-flow.md)
 
 ## CSS
